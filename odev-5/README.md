@@ -1,3 +1,8 @@
+## patika.dev React 5. Ödevi (Primary, default, dashed, text ve link tipinde butonlar tanımlanabilen library yazılmıştır.)
+
+[patika.dev](https://www.patika.dev/tr)
+
+
 # ptkui
 
 > Made with create-react-library
