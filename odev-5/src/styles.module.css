@@ -1,0 +1,74 @@
+/* add css module styles here (optional) */
+
+.test {
+  margin: 2em;
+  padding: 0.5em;
+  border: 2px solid #000;
+  font-size: 2em;
+  text-align: center;
+}
+
+.primary {
+  width: 120px;
+  height: 30px;
+  margin-top: 30px;
+  margin-left: 30px;
+  background-color: rgb(98, 205, 238);
+  text-align: center;
+  border-radius: 3px;
+  border: none;
+}
+
+.default {
+  width: 120px;
+  height: 30px;
+  margin-top: 30px;
+  margin-left: 30px;
+  background-color: white;
+  text-align: center;
+  border-radius: 3px;
+  border-color: grey;
+  border-width: 1px;
+}
+
+.dashed {
+  width: 120px;
+  height: 30px;
+  margin-top: 30px;
+  margin-left: 30px;
+  background-color: white;
+  text-align: center;
+  border: dashed;
+  border-radius: 5px;
+  border-width: 0.5px;
+  border-color: grey;
+}
+
+.text {
+  width: 120px;
+  height: 30px;
+  margin-top: 30px;
+  margin-left: 30px;
+  background-color: rgb(247, 247, 247);
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+}
+
+.link {
+  width: 120px;
+  height: 30px;
+  margin-top: 30px;
+  margin-left: 30px;
+  background-color: white;
+  text-align: center;
+  border-radius: 5px;
+  color: rgb(76, 108, 252);
+  border: none;
+}
+
+
+
+
+
+
